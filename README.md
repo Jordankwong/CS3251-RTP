@@ -1,1 +1,1 @@
-# CS3251-RTP
+# CS3251 Project - Reliable Transport Protocol
